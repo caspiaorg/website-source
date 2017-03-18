@@ -4,7 +4,7 @@ date: 2017-03-17 22:25:57
 tags: CBCC
 ---
 
-![](/images/cbcc.jpg).
+![](/website/images/cbcc.jpg).
 I've been having discussions with Ray Pulsipher (computer instructor with Peninsula College) for a year now about trying to setup an open source project with students at Clallam Bay. Last year, we went together to Department of Corrections in Olympia to get agreement on the security aspects of such a program. This week, Ray and Sandra Diimmel (Director of Education at Clallam Bay with Peninsula College) met with the superintendent of Clallam Bay, and jointly agreed that we could proceed.
 
 The current plans are for me to spend two days per week at Clallam Bay in their existing computer education lab, working with students to develop open source projects that they could work on. Because of my connections with Mozilla, and in particular with Mozilla Thunderbird, likely projects would be somewhere in Mozilla.
