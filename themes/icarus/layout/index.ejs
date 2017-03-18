@@ -1,0 +1,22 @@
+<article id="common-page" class="article article-type-post">
+  <div class="article-inner">
+    <div class="article-entry">
+      <em>Caspia is an organization dedicated to help prisoners
+      in the state of Washington participate in open source software projects.
+      The goal is to allow them the opportunity to contribute something
+      back to the world while learning valuable skills that will help them with reentry.
+      </em>
+    </div>
+  </div>
+</article>
+<% page.posts.each(function(post) { %>
+    <%- partial('common/article', { post: post, index: true }) %>
+<% });
+if (page.total > 1) { %>
+    <nav id="page-nav">
+        <%- paginator({
+            prev_text: '&laquo; ' + __('nav.prev'),
+            next_text: __('nav.next') + ' &raquo;'
+        }) %>
+    </nav>
+<% } %>
