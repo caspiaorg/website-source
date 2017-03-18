@@ -10,7 +10,7 @@ Prisons in Washington state have a limited ability to train inmates in job skill
 -  at Monroe (WSR) run by volunteers at University Beyond Bars
 -  at Monroe (WSR and TRU), a new program by Unloop in cooperation with Edmonds Community College.
 
-The question Caspia asks is, what happens when the individual student completes a training program, which are inevitably limited in time and scope? They have no access to computers outside of an organized training session, and no access to the internet.
+The question Caspia asks is, what happens when individual students complete a training program, which are inevitably limited in time and scope? They have no access to computers outside of an organized classroom, and no access to the internet.
 
 The answer we hope to provide is to establish programs to allow students to retain their training, and increase there knowledge, by partipating in open source software projects. This also gives them the opportunity to "give back" a little to the world, and to develop a portfolio of work that can help their job search when they leave the facility.
 
